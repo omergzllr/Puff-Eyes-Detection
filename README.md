@@ -85,7 +85,7 @@ Bu proje, **YOLOv8** kullanılarak **şişkin göz tespiti (Puff Eyes Detection)
 
 ## **📩 İletişim & Katkı Sağlama**  
 Projeye katkıda bulunmak isterseniz, **Pull Request** gönderebilir veya **Issue** açabilirsiniz!  
-📧 Bana ulaşın: [E-posta veya LinkedIn profiliniz]  
+📧 Bana ulaşın: omergzllr@gmail.com  
 
 🔹 **GitHub:** https://github.com/omergzllr  
 🔹 **LinkedIn:** www.linkedin.com/in/ömergüzeller
